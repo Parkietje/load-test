@@ -1,1 +1,8 @@
+#python
 __pycache__
+
+#vscode
+*.code-workspace
+
+#wireshark decrypt ssl secret
+sslkey.log
