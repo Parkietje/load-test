@@ -18,5 +18,5 @@ class Tasks(TaskSet):
 #Locust is a simulated user with a task set
 class Locust(HttpUser):
     host = config["host"]
-    wait_time = between(2, 5)
+    wait_time = between(20, 30)
     tasks = [Tasks]
