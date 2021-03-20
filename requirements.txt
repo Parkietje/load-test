@@ -9,7 +9,7 @@ geventhttpclient==1.4.2
 greenlet==0.4.16
 idna==2.9
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 -e git://github.com/locustio/locust.git@228055e9b9bccbd8cb1a6bba429cf4a05bcdfa24#egg=locust
 MarkupSafe==1.1.1
 msgpack==1.0.0
